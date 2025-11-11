@@ -1,2 +1,57 @@
 # Gazal-
 Trying something new.
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Gazal Website</title>
+  <style>
+    body {
+      font-family: "Poppins", sans-serif;
+      background: linear-gradient(135deg, #f8f9fa, #e3f2fd);
+      text-align: center;
+      padding: 60px 20px;
+    }
+
+    h1 {
+      color: #1a237e;
+      font-size: 2.5rem;
+      margin-bottom: 10px;
+    }
+
+    p {
+      color: #424242;
+      font-size: 1.2rem;
+      margin-bottom: 30px;
+    }
+
+    a {
+      display: inline-block;
+      text-decoration: none;
+      background: #1a73e8;
+      color: white;
+      padding: 12px 24px;
+      border-radius: 8px;
+      transition: background 0.3s ease;
+    }
+
+    a:hover {
+      background: #0d47a1;
+    }
+
+    footer {
+      margin-top: 50px;
+      font-size: 0.9rem;
+      color: #616161;
+    }
+  </style>
+</head>
+<body>
+  <h1>Welcome to My Website 🌸</h1>
+  <p>Yeh meri pehli HTML website hai, hosted on GitHub Pages!</p>
+  <a href="https://github.com/Divia-gzl/Gazal-" target="_blank">View My GitHub Repo</a>
+
+  <footer>© 2025 Gazal | Built with ❤️ and HTML</footer>
+</body>
+</html>
